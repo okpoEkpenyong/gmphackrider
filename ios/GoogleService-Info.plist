@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>478816800318-iht3oq7gala57s95t28gnngoe4mr6it3.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.478816800318-iht3oq7gala57s95t28gnngoe4mr6it3</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>478816800318-55hv0dg1vfl0ti901ht18f3q82l75g65.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDOhPefbFsTliIDjJbU8j_gwIRyqmu3lWU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>478816800318</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.gmphackrider</string>
+	<key>PROJECT_ID</key>
+	<string>exzingdb</string>
+	<key>STORAGE_BUCKET</key>
+	<string>exzingdb.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:478816800318:ios:22e93cf7aea5b1da40cb6f</string>
+	<key>DATABASE_URL</key>
+	<string>https://exzingdb-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
